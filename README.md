@@ -9,7 +9,7 @@
 <br>
 2 - ``node Main.js`` to start server.
 <br>
-3 - ``node TestPaymentSystem.js`` to test APIs via terminal. It has interface to interact with APIs and logic.
+3 - ``node TestPaymentSystem.js`` to test APIs via terminal.It has interface to interact with APIs and logic.
 <br>
 </hr>
 
